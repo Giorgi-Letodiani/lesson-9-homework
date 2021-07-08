@@ -1,0 +1,228 @@
+.bg-img{
+	width: 100%;
+	position: absolute;
+}
+.bg-img-text{
+	position: relative;
+}
+.header-wrapper{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	width: 100%;
+}
+.nav-flex{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	width: 50%;
+	margin: 5%;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.main-page{
+	width: 50%;
+	margin: 5%;
+	font-family: Dancing Script;
+	font-size: 28px;
+	color: #D9F0FF;
+}
+.nav-a{
+	color: #D9F0FF;
+	font-family: Poppins;
+	font-size: 12px;
+}
+.head-text{
+	color: #FFFFFF;
+	font-family: Lato;
+	font-size: 100px;
+	max-width: 1020px;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+  	top: 50%;
+  	-webkit-transform: translateY(50%);
+  	    -ms-transform: translateY(50%);
+  	        transform: translateY(50%);
+}
+/*conteiner 2*/
+.conteiner-2{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	width: 100%;
+}
+.left-block{
+	width: 50%;
+}
+.right-block{
+	width: 50%;
+}
+.sec-img{
+	width: 100%;
+}
+.left-block-text{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	width: 100%;
+	margin-left: 5%;
+	margin-top: 15%;
+}
+.left-text-1{
+	max-width: 468px;
+	width: 100%;
+	font-family: Lato;
+	font-size: 50px;
+	color: #000000;
+}
+.left-text-2{
+	max-width: 457px;
+	width: 100%;
+	margin-top: 60px;
+	font-family: Poppins;
+	font-size: 16px;
+	color: #000000;
+}
+.left-text-3-block{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	max-width: 307px;
+	width: 100%;
+	height: 72px;
+	background-color: #325DFF;
+	border-radius: 36px;
+	margin-top: 60px;
+}
+.left-text-3{
+	font-family: Lato;
+	font-size: 14px;
+	font-style: bold;
+	color: #FFFFFF;
+}
+/*section 3*/
+.conteiner-two{
+	width: 100%
+}
+.main-blok{
+	padding: 5%;
+	width: 100%;
+}
+.main-blok-text{
+	max-width: 771px;
+	width: 100%;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.text-4{
+	text-align: center;
+	font-family: Lato;
+	font-size: 35px;
+	color: #000000;
+	max-width: 570px;
+	width: 100%;
+}
+.text-5{
+	text-align: center;
+	font-family: Poppins;
+	font-size: 16px;
+	color: #000000;
+	max-width: 771px;
+	width: 100%;
+	margin-top: 2%;
+}
+.under-blocks{
+	margin-top: 60px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+}
+.block-content{
+	max-width: 370px;
+	width: 100%;
+	height: 370px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+.block-in-block{
+	max-width: 251px;
+	width: 100%;
+	height: 263px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.contur-block{
+	max-width: 88px;
+	width: 100%;
+	height: 88px;
+	background-color: #325DFF;
+	border-radius: 50px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.cont-img{
+	width: 32px;
+	height: 32px;
+}
+.under-text-2{
+	max-width: 233px;
+	width: 100%;
+	text-align: center;
+	font-family: Lato;
+	font-size: 18px;
+	color: #000000;
+}
+.under-text-3{
+	max-width: 251px;
+	width: 100%;
+	text-align: center;
+	font-size: 16px;
+	font-family: Poppins;
+	color: #000000;
+}
